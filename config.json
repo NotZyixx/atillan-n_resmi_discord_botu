@@ -1,0 +1,87 @@
+{
+    "bot": {
+        "owner": "1088126193141817476",
+        "prefix": "a!",
+        "BotStatus": "Bilmem ne kalp MERMKGEQKRGERG",
+        "BotFooter": "AAAAAAA",
+        "cooldown": 8
+    },
+    "penals": {
+        "ban": {
+            "staff": "1080242803457663017",
+            "log": "1089441868774912041 ",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "1081255877069263010",
+            "roles": "1074642418374299669",
+            "log": "1089442101235830814",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "1079116915705917520",
+            "roles": "1089442879124017242",
+            "log": "1089443426266787983",
+            "limit": 40
+        },
+        "warn": {
+            "staff": "1074642409171984384",
+            "log": "1089443906053222470"
+        },
+        "transport": {
+            "staff": "Ta"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "taglog": "Tag log id",
+        "rollog": "Rol log id",
+        "messagelog": "Mesaj log id",
+        "seslog": "Ses log id"
+    },
+    "roles": {
+        "vip": "1080211402934984787",
+        "sponsor": "1074642421935263824",
+        "müzisyen": "1080492651209560156",
+        "team": "1080251713396690984"
+    },
+    "channels": {
+        "chat": "1074642461948915824",
+        "voicechannel": "1080478567693029416",
+        "welcomechannel": "1080247904855392377",
+        "rules": "1080233051373703178"
+    },
+    "registration": {
+        "unregistered": "1074642424896442438",
+        "man": ["1079120683688271882", "1089446831269883987"],
+        "woman": ["1074642425697538139", "1089447281775878145"],
+        "yetkilialim": "1080245759057870858",
+        "staff": "1080239615014862858",
+        "GuilDTag": "⚚",
+        "TagSymbol": "⚚",
+        "autonickname": "$ İsim  Yaş (Otomatik isim)",
+        "symbol": " ",
+        "suspecios": "1089449259985801216",
+        "susoeciosnickname": "1089449369268387880",
+        "oneman": "1079120683688271882",
+        "onewoman": "1074642425697538139",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "980848149772001370",
+        "GuilDName": "Sunucu Adınız",
+        "GuildOwnerRole": ["1079378981435998298"]
+    },
+    "emojis": {
+        "tada": "Emoji 1",
+        "yes": ":white_check_mark:",
+        "no": ":x:"
+
+    }
+} 
